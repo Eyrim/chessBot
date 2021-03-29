@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LmmooQSx6ZaaZaaBNAQYZbtL6vyfvMXTVBRsfEhasRr0dqXA4HlrORw74YX8un0vowu4M9ByxxFnKnFQK4qs3w==",
+  "dgSpecHash": "1ni0J9dz07YddtV96DQdHYPTKrqsy7DzKjCz1npbV9Yttesl/wFkFoFbr/ALG8u6h0PaN/EsSlC6KyqDOXcF9A==",
   "success": true,
   "projectFilePath": "C:\\Projects\\chessBot\\chessBot\\chessBot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gamin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
